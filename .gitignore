@@ -16,6 +16,10 @@ ENV/
 *.swp
 *.swo
 
+# data
+data/
+*.csv
+
 
 # Jupyter
 .ipynb_checkpoints/
