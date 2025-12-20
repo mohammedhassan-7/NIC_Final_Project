@@ -1,0 +1,16 @@
+{
+  "test_accuracy": 0.5036,
+  "best_val_loss": 0.7196390538275996,
+  "best_val_accuracy": 0.5144,
+  "train_time_seconds": 29.53277611732483,
+  "hyperparameters": {
+    "embed_dim": 64,
+    "hidden_dim": 32,
+    "dropout": 0.7,
+    "learning_rate": 0.1,
+    "epochs": 10,
+    "batch_size": 64,
+    "max_len": 150,
+    "max_vocab": 30000
+  }
+}
