@@ -1,12 +1,12 @@
 # Nature-Inspired Optimization for Sentiment Analysis
 
-**Authors:** [Anas Ahmad](https://github.com/anas-Ah25), [Mohamed Hassan](https://github.com/mohammedhassan-7)<br>
+**Authors:** [Anas Ahmad](https://github.com/anas-Ah25), [Mohammed Hassan](https://github.com/mohammedhassan-7)<br>
 **Course:** Nature Inspired Computation  
 **Date:** December 20, 2025
 
 ## Overview
 
-This project uses metaheuristic algorithms to optimize a BiLSTM sentiment classifier on the IMDB movie review dataset.
+This project uses metaheuristic algorithms to optimize a BiLSTM sentiment classifier on the IMDB movie review dataset. It implements a three-phase optimization pipeline: hyperparameter tuning, meta-optimization of algorithm parameters, and explainability optimization using LIME.
 
 ## Dataset
 
