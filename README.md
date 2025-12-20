@@ -52,12 +52,6 @@ phase 2/                    # Meta-optimization & XAI optimization
 - **Best Algorithm:** Grey Wolf Optimizer (GWO)
 - **Result:** Superior overall explanation quality with balanced metrics
 
-## Key Findings
-
-✅ **53.6% improvement** over baseline (51.4% → 78.9%)  
-✅ Meta-optimization improved accuracy by **+2.5%**  
-✅ Optimized LIME explanations are **15% more stable**
-
 ## Repository
 
 https://github.com/mohammedhassan-7/nature-opt-sentiment-imdb
